@@ -1,6 +1,6 @@
 // A duplicate copy //
 
-My StartNG Details.
+My StartNG Details...
 
 Full Name: OSIGBEMHE Omhoape Leo
 
